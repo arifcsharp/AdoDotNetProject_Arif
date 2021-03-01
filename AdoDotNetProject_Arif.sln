@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoDotNetProject_Arif", "AdoDotNetProject_Arif\AdoDotNetProject_Arif.csproj", "{447F8314-4B02-4753-B19F-2E928D19D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447F8314-4B02-4753-B19F-2E928D19D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447F8314-4B02-4753-B19F-2E928D19D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447F8314-4B02-4753-B19F-2E928D19D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447F8314-4B02-4753-B19F-2E928D19D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890B962F-7CDD-4FE3-8C46-D18A3F661F7F}
+	EndGlobalSection
+EndGlobal
